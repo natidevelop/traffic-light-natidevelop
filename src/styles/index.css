@@ -10,3 +10,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.onLightYellow {
+    -webkit-box-shadow: 10px 10px 128px -1px rgba(237,224,104,1);
+-moz-box-shadow: 10px 10px 128px -1px rgba(237,224,104,1);
+box-shadow: 10px 10px 128px -1px rgba(237,224,104,1);
+}
+.onLightRed{ --webkit-box-shadow: 10px 10px 128px -1px rgba(237,65,26,1);
+    -moz-box-shadow: 10px 10px 128px -1px rgba(237,65,26,1);
+    box-shadow: 10px 10px 128px -1px rgba(237,65,26,1);
+
+}
+.onLightGreen{
+    -webkit-box-shadow: 10px 10px 128px -1px rgba(128,237,116,1);
+    -moz-box-shadow: 10px 10px 128px -1px rgba(128,237,116,1);
+    box-shadow: 10px 10px 128px -1px rgba(128,237,116,1);
+}
+.onLightPurple{
+    -webkit-box-shadow: 10px 10px 130px 0px rgba(232,69,232,1);
+-moz-box-shadow: 10px 10px 130px 0px rgba(232,69,232,1);
+box-shadow: 10px 10px 130px 0px rgba(232,69,232,1);
+}
